@@ -34,5 +34,5 @@ Run a npm run cypress:open
 
 ## Questions
 For additional questions, you can reach me through:
-* GitHub: [Alek901](https://github.com/Alek901)
-* Email: Magicguys1@icloud.com
+* GitHub: [bluemattison](https://github.com/bluemattison)
+* Email: Mattisonanderson20@gmail.com
